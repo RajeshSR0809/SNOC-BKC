@@ -11,9 +11,9 @@
     "react-dom": "^16.13.1",
     "react-hook-form": "^5.7.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "truffle-contract": "^3.0.4",
-    "web3": "^1.2.8"
+    "web3": "^4.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
